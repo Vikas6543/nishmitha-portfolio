@@ -1,0 +1,31 @@
+export default function Resume() {
+  return (
+    <section
+      id="resume"
+      className="flex flex-col items-center justify-center text-center md:pb-28 pb-24 px-6 md:px-16 max-w-5xl mx-auto"
+    >
+      <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
+        My Resume
+      </h2>
+      <p className="text-slate-400 max-w-md mb-8">
+        Want to know more about my experience and skills? Download my resume
+        below or reach out directly.
+      </p>
+      <div className="flex flex-col sm:flex-row gap-4">
+        <a
+          href="/Divya_Sis_Resume.pdf"
+          download
+          className="border border-accent text-accent px-8 py-3 rounded-[16px] font-medium hover:bg-accent/10 transition-colors"
+        >
+          Download Resume
+        </a>
+        <a
+          href="mailto:divyapanchakshire@gmail.com"
+          className="border border-slate-700 text-slate-300 px-8 py-3 rounded-[16px] font-medium hover:bg-slate-800 transition-colors"
+        >
+          Say Hello
+        </a>
+      </div>
+    </section>
+  );
+}
