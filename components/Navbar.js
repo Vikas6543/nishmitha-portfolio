@@ -69,7 +69,7 @@ export default function Navbar() {
           onClick={() => setOpen(false)}
           className="font-script text-2xl text-white leading-none relative"
         >
-          Divya
+          Nishmitha
           <span className="absolute -bottom-1 left-0 right-2 h-0.5 bg-gradient-to-r from-accent to-fuchsia-500 rounded-full" />
         </Link>
 
