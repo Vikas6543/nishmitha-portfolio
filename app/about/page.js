@@ -11,8 +11,8 @@ const EXPERIENCE_BULLET_POINTS = [
 ];
 
 export const metadata = {
-  title: "About | Divya",
-  description: "About Divya, a UI/UX and product designer.",
+  title: "About | Nishmitha Dasaraju",
+  description: "About Nishmitha Dasaraju, a UI/UX and product designer.",
 };
 
 export default function AboutPage() {
@@ -54,8 +54,8 @@ export default function AboutPage() {
               </div>
               <div className="order-1 col-span-12 min-w-0 md:order-2 md:col-span-4 flex justify-center items-center flex-row mb-10 md:mb-0">
                 <img
-                  src="/images/Divya-sis-image.jpeg"
-                  alt="Divya"
+                  src="#"
+                  alt="Nishmitha Dasaraju"
                   className="rounded-[9.5px] w-[220px] h-[220px] md:w-[260px] md:h-[260px] object-cover mt-[70px] md:mt-0"
                 />
               </div>

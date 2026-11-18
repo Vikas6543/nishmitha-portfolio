@@ -98,7 +98,7 @@ export default function Navbar() {
         </ul>
 
         <a
-          href="mailto:divyapanchakshire@gmail.com"
+          href="mailto:nishmithatd19@gmail.com"
           className="hidden sm:inline-flex items-center gap-1.5 border border-accent/60 text-accent text-sm font-medium px-4 py-[10px] rounded-[12px] hover:bg-accent/10 transition-colors"
         >
           Contact
@@ -164,7 +164,7 @@ export default function Navbar() {
           ))}
           <li>
             <a
-              href="mailto:divyapanchakshire@gmail.com"
+              href="mailto:nishmithatd19@gmail.com"
               className="inline-flex items-center gap-1.5 border border-accent/60 text-accent text-sm font-medium px-4 py-2 rounded-full"
             >
               Contact

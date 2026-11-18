@@ -1,20 +1,20 @@
 const testimonials = [
   {
     quote:
-      "Divya has a great ability to understand complex requirements and turn them into clear, intuitive user experiences. She brings thoughtful design thinking to every project.",
+      "Nishmitha has a great ability to understand complex requirements and turn them into clear, intuitive user experiences. She brings thoughtful design thinking to every project.",
     name: "Pankaj Kumar",
     role: "Design Lead at Torry Harris",
   },
   {
     quote:
-      "I really enjoy collaborating with Divya. She is always open to feedback, communicates her design decisions clearly, and works closely with the development team.",
+      "I really enjoy collaborating with Nishmitha. She is always open to feedback, communicates her design decisions clearly, and works closely with the development team.",
     name: "Chethan Ramakrishna",
     role: "Technical Lead at Torry Harris",
   },
   {
     quote:
-      "Working with Divya has always been smooth. She listens carefully, asks the right questions, and collaborates closely with product and development teams to bring ideas to life.",
-    name: "Nishmitha Dasaraju",
+      "Working with Nishmitha Dasaraju has always been smooth. She listens carefully, asks the right questions, and collaborates closely with product and development teams to bring ideas to life.",
+    name: "Divya Panchakshire",
     role: "Product Designer at Torry Harris",
   },
 ];

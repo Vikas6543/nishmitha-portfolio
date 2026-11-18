@@ -12,7 +12,9 @@ const links = [
 export default function Footer() {
   return (
     <footer className="py-[70px] px-6 border-t border-[#1d2841] text-center">
-      <p className="font-script text-3xl text-white">divya</p>
+      <p className="font-script text-3xl text-white">
+        Nishmitha <span className="pl-1">Dasaraju.</span>
+      </p>
 
       <div className="flex items-center justify-center gap-3 mt-6 text-slate-500 text-sm">
         <span className="h-px w-16 bg-slate-800" />
@@ -35,7 +37,7 @@ export default function Footer() {
 
       <div className="flex items-center justify-center gap-5 mt-8">
         <a
-          href="https://www.behance.net/divya_prakash"
+          href="https://www.behance.net/nishmithatd"
           target="_blank"
           rel="noreferrer"
           aria-label="Behance"
@@ -55,7 +57,7 @@ export default function Footer() {
           </svg>
         </a>
         <a
-          href="mailto:divyapanchakshire@gmail.com"
+          href="mailto:nishmithatd19@gmail.com"
           aria-label="Email"
           className="text-slate-500 hover:text-white transition-colors"
         >
@@ -76,7 +78,7 @@ export default function Footer() {
           </svg>
         </a>
         <a
-          href="https://www.linkedin.com/in/divya-prakash-99291b286?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+          href="https://www.linkedin.com/in/nishmitha-t-d-aa0b96289/"
           target="_blank"
           rel="noreferrer"
           aria-label="LinkedIn"
@@ -89,7 +91,9 @@ export default function Footer() {
       </div>
 
       <p className="text-slate-600 text-sm mt-16">Thanks For Visiting.</p>
-      <p className="font-script text-2xl text-slate-700 mt-2">Divya.</p>
+      <p className="font-script text-2xl text-slate-700 mt-2">
+        Nishmitha <span className="pl-1">Dasaraju.</span>
+      </p>
     </footer>
   );
 }

@@ -13,14 +13,14 @@ export default function Resume() {
       </p>
       <div className="flex flex-col sm:flex-row gap-4">
         <a
-          href="/Divya_Sis_Resume.pdf"
+          href="/Nishmitha_resume.pdf"
           download
           className="border border-accent text-accent px-8 py-3 rounded-[16px] font-medium hover:bg-accent/10 transition-colors"
         >
           Download Resume
         </a>
         <a
-          href="mailto:divyapanchakshire@gmail.com"
+          href="mailto:nishmithatd19@gmail.com"
           className="border border-slate-700 text-slate-300 px-8 py-3 rounded-[16px] font-medium hover:bg-slate-800 transition-colors"
         >
           Say Hello
